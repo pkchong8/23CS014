@@ -1,0 +1,6 @@
+[submodule "fundflow-frontend"]
+	path = fundflow-frontend
+	url = https://github.com/Johnsoncpk/fundflow-frontend
+[submodule "fundflow-smart-contract"]
+	path = fundflow-smart-contract
+	url = https://github.com/Johnsoncpk/fundflow-smart-contract
